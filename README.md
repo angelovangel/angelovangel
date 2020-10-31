@@ -3,6 +3,7 @@
 
 - 💻 Mostly using R, Shiny, nextflow & bash
 - 📚 Currently learning Rust & C++
+- 🧬 Interested in bioinformatics
 <!--
 **angelovangel/angelovangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
