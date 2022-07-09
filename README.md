@@ -1,8 +1,8 @@
 
 [![Angel's github stats](https://github-readme-stats.vercel.app/api?username=angelovangel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💻 Mostly using R, Shiny, nextflow & bash
-- 📚 Currently learning Rust
+- 💻 Mostly R, Shiny, nextflow & bash
+- 📚 Learning Rust
 - 🧬 Interested in bioinformatics
 <!--
 **angelovangel/angelovangel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
