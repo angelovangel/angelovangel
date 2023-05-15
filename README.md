@@ -1,6 +1,4 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovangel&hide_progress=false)](https://github.com/angelovangel/github-readme-stats)
-
 - 💻 Mostly R, Shiny, nextflow & bash
 - 📚 Learning Rust
 - 🧬 Interested in bioinformatics
