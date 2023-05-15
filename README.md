@@ -1,5 +1,5 @@
 
-[![Angel's github stats](https://github-readme-stats.vercel.app/api?username=angelovangel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelovangel&hide_progress=false)](https://github.com/angelovangel/github-readme-stats)
 
 - 💻 Mostly R, Shiny, nextflow & bash
 - 📚 Learning Rust
